@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Ebenezer 👋
+
+I'm a **Physics graduate with a focus on Geophysics and Seismology**, interested in using **machine learning and computational methods** to study geophysical problems.
+
+### 🔬 Interests
+
+* Seismology
+* Computational Geophysics
+* Machine Learning & Deep Learning
+* Seismic Data Analysis
+
+### 🛠️ Tools & Technologies
+
+**Python** · **PyTorch** · **NumPy** · **SciPy** · **Scikit-learn** · **ObsPy** · **GMT** · **SAC** · **Linux** · **Git/GitHub**
+
+### 📌 Currently
+
+Exploring **machine learning, seismic waveform analysis, and computational approaches to earthquake science.**
+
+### 🔗 Connect
+
+[GitHub](https://github.com/Ebenezeragyemang10) · [LinkedIn](https://www.linkedin.com/in/agyemang-ebenezer-388110234/)
