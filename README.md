@@ -1,5 +1,5 @@
 ## Hi my name is Agyemang Ebenezer 👋
-`I am Bsc Physics (geophysics) graduate with interest in  seismology, computational geophysics and machine learning. `
+`I am a Bsc Physics (geophysics) graduate with interest in  seismology, computational geophysics and machine learning. `
 
 
 
