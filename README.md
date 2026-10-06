@@ -1,5 +1,5 @@
 ## Hi 👋
-I like physics and machine learning
+I like physics, seismology and machine learning
 
 
 
