@@ -1,5 +1,5 @@
-## Hi my name is Agyemang Ebenezer 👋
-i like physics and machine learning
+## Hi 👋
+I like physics and machine learning
 
 
 
